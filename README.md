@@ -1,5 +1,5 @@
 # Neon Letters - Talk is cheap, show me the code!
-
+![chrome-capture (1)](https://user-images.githubusercontent.com/63374582/119235517-9871ee00-bb3b-11eb-8873-8b3a5ae78cee.gif)
 
 ---
 
